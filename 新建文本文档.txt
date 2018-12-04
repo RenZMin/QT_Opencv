@@ -1,0 +1,4 @@
+INCLUDEPATH+=D:/opencv/opencv/build/QT/QTLib/include/opencv\
+                    D:/opencv/opencv/build/QT/QTLib/include/opencv2\
+                    D:/opencv/opencv/build/QT/QTLib/include
+LIBS+=D:/opencv/opencv/build/QT/lib/libopencv_*
